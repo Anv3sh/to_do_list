@@ -3,5 +3,3 @@
 * HTML
 * CSS
 * JS
-
-## Didn't work much on the frontend mostly copy paste
